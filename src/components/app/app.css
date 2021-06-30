@@ -1,0 +1,15 @@
+.app {
+    margin: 50px auto;
+
+    max-width: 600px;
+    min-height: 400px;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.app-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

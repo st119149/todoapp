@@ -1,0 +1,13 @@
+.search-panel {
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 5px;
+    transition: 0.1s ease all;
+}
+
+.search-panel:hover {
+    border: 1px solid rgba(0,0,0,0.9);
+}
+
+.search-panel:focus {
+    border: 1px solid rgba(0,0,0,0.9);
+}

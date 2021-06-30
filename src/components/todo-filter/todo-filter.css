@@ -1,0 +1,25 @@
+.todo-filter button {
+    display: block;
+    border: none;
+    background: none;
+    padding: 0 10px;
+    font-size: 14px;
+    color: rgba(0,0,0,0.6);
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.1s ease all;
+}
+
+.todo-filter button:hover {
+    color: rgba(0,0,0,1);
+}
+
+.todo-filter .active {
+    color: rgba(0,0,0,1);
+
+}
+
+.todo-filter {
+    display: flex;
+    justify-content: space-between;
+}

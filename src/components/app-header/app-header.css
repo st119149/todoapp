@@ -1,0 +1,12 @@
+.app-header span {
+    margin-bottom: 30px;
+    display: block;
+    font-size: 10px;
+    text-align: right;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
